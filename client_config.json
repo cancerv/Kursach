@@ -1,0 +1,6 @@
+{
+  "appName": "socket_client",
+  "host": "localhost",
+  "port": 8000,
+  "logFile": "./client.log"
+}

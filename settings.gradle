@@ -1,0 +1,5 @@
+rootProject.name = 'Kursa4'
+include 'server'
+include 'client'
+include 'logger'
+

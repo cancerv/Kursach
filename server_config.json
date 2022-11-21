@@ -1,0 +1,5 @@
+{
+  "appName": "socket_server",
+  "port": 8000,
+  "logFile": "./server.log"
+}
